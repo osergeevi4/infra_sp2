@@ -20,8 +20,6 @@ media/
 
 db.sqlite3
 
-Dockerfile
 .dockerignore.txt
-docker-compose.yaml
 requirements_temp.txt
 
